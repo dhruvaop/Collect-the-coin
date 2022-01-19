@@ -22,3 +22,6 @@ Here are useful tips to get started with this tutorial
 - [Making a Linux build with the Unity Simulation SDK](https://github.com/Unity-Technologies/Unity-Simulation-Docs/blob/master/doc/build.md)
 - [Unity Simulation Concepts](https://github.com/Unity-Technologies/Unity-Simulation-Docs/blob/master/doc/taxonomy.md)
 - [Integrating the Unity Simulation SDK](https://github.com/Unity-Technologies/Unity-Simulation-Docs/blob/master/doc/integrate.md)
+![Screenshot (188)](https://user-images.githubusercontent.com/71749153/150150359-98821975-c837-4b51-b025-f69ee3d9f597.png)
+![Screenshot (186)](https://user-images.githubusercontent.com/71749153/150150362-9281e23e-1492-4e73-99d0-9658cf6ba4f4.png)
+![Screenshot (187)](https://user-images.githubusercontent.com/71749153/150150368-2a9c5cbf-cff8-4182-baef-b3da20ceea16.png)
